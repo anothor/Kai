@@ -1,0 +1,8 @@
+@media screen and (max-width: 576px) {
+  .page-header.page-header-small {
+    min-height: 100vh !important;
+  }
+  .mascot-header{
+    max-height: 150px;
+  }
+}
